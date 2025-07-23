@@ -1,12 +1,5 @@
 {
-  "users": [
-    {
-      "key": "ABC123",
-      "hwid": "HWID_1111"
-    },
-    {
-      "key": "XYZ789",
-      "hwid": "HWID_2222"
-    }
-  ]
+  "ABC123": "HWID_1",
+  "XYZ789": "HWID_2",
+  "QWE456": "HWID_3"
 }
